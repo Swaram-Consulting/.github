@@ -1,5 +1,6 @@
 
-![SC-Logo-sr-whitebg](https://github.com/user-attachments/assets/e9b2c8e9-7658-45ab-b1b1-a4f8dd9c9eed)
+![Uploading image.png…]()
+
 
 ### Orchestrating Digital Excellence through Intelligent Automation
 
