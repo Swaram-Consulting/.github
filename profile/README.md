@@ -1,5 +1,6 @@
 
-<img width="768" height="117" alt="image" src="https://github.com/user-attachments/assets/976db8b7-34a1-4dfa-83d6-9e06cf500a83" />
+![SC-Logo-sr-whitebg](https://github.com/user-attachments/assets/e9b2c8e9-7658-45ab-b1b1-a4f8dd9c9eed)
+
 ### Orchestrating Digital Excellence through Intelligent Automation
 
 Welcome to the official GitHub home of **Swaram Consulting**. We specialize in bridging the gap between complex architectural challenges and elegant, scalable software solutions.
