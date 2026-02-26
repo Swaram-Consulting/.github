@@ -1,5 +1,5 @@
+![SC-att-logo](https://github.com/user-attachments/assets/1ecd9856-f925-4eb1-ae46-32ef1445719a)
 
-![Uploading image.png…]()
 
 
 ### Orchestrating Digital Excellence through Intelligent Automation
